@@ -1,0 +1,23 @@
+{
+  "testScores": {
+    "madLib Tests": {
+      "maTe1": 1,
+      "maTe2": 1
+    }
+  },
+  "idToTestNameHash": {
+    "maTe1": "madLib Tests Returns a string using all the params...",
+    "maTe2": "madLib Tests Returns different results based on the flag..."
+  },
+  "testNameToIdHash": {
+    "madLib Tests The madlib returns a string containing the params...": "maTe1",
+    "madLib Tests The madlib returns different results based on the flag...": "maTe2",
+    "madLib Tests Returns a string containing the params...": "maTe1",
+    "madLib Tests Returns different results based on the flag...": "maTe2",
+    "madLib Tests Returns a string using all the params...": "maTe1"
+  },
+  "humanReadable": {
+    "madLib Tests": "2/2",
+    "finalTestScore": "FINAL SCORE: 2/2"
+  }
+}
